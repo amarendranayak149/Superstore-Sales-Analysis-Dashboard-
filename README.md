@@ -37,21 +37,6 @@ This project focuses on creating an interactive sales dashboard for a superstore
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/superstore-sales-dashboard.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Load the dataset into the `data/` folder.
-4. Run the Jupyter notebook in the `notebooks/` folder to preprocess data and generate forecasts.
-5. Open the dashboard file (`dashboard.pbix` or Tableau equivalent) to explore the visualizations.
-
----
-
 ## Insights and Recommendations
 - **Peak Sales Periods**: Insights into which months/quarters drive the most sales.
 - **Underperforming Regions**: Identify areas needing strategic attention.
